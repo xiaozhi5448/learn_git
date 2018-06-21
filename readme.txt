@@ -3,3 +3,4 @@ Git is Free Software
 test line
 test line num+N
 test line 3
+test stash
