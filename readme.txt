@@ -4,3 +4,4 @@ test line
 test line num+N
 test line 3
 test stash
+test dev remote
